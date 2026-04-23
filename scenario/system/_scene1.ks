@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/黑屏.png"  ]
+[preload  storage="./data/bgimage/宠物殡葬店.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/东东_大哭.png"  ]
+[preload  storage="./data/fgimage/chara/3/东东_皱眉.png"  ]
+[preload  storage="./data/fgimage/chara/3/东东_平静.png"  ]
+[return]

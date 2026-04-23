@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/黑屏.png"  ]
+[preload  storage="./data/bgimage/宠物殡葬店.PNG"  ]
+[preload  storage="./data/bgimage/告别室.png"  ]
+[preload  storage="./data/fgimage/default/手账本素材.png"  ]
+[return]

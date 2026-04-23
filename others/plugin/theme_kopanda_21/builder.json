@@ -1,0 +1,16 @@
+{
+    "name": {
+        "ja": "サンフラワー",
+        "en": "Sunflower"
+    },
+    "pm": {
+        "font_color": "0x443836",
+        "name_color": "0xCCB5A3",
+        "frame_opacity": 255
+    },
+    "glink": "ts21",
+    "pro": 0,
+    "width": 1280,
+    "height": 720,
+    "author": "kopanda"
+}
